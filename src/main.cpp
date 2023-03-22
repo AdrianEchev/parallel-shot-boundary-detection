@@ -1,11 +1,3 @@
-/*
- * LEAD University
- * BCD-9218 // Computación Paralela y Distribuida
- * Proyecto Final
- * Adrián Echeverría
- * Lolita Maldonado
- */
-
 #include <opencv4/opencv2/core.hpp>
 #include <opencv4/opencv2/highgui.hpp>
 #include <opencv4/opencv2/opencv.hpp>
